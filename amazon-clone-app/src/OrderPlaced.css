@@ -1,0 +1,17 @@
+.orderplaced>img{
+    margin-top: 50px;
+    height: 70px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+}
+.orderplaced{
+    
+    padding: 10px 40px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(14, 143, 9);
+    font-weight: 800;
+    font-size: 2rem;
+    padding-bottom: 200px;
+    
+}
+

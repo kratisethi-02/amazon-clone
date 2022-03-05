@@ -1,0 +1,32 @@
+.orderNow{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 100%;
+    min-width: 50%;
+    max-height: 500px;
+    padding: 35px;
+    background-color: #f1efef;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+}
+.orderNow__gift{
+    display: flex;
+    align-items: center;
+
+}
+.orderNow__gift > input{
+    margin-right: 5px ;
+}
+.orderNow > button{
+    cursor: pointer;
+    background:#f0c14b;
+    border-radius: 2px;
+    max-width: 100%;
+    max-height: none;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111 ;
+}
